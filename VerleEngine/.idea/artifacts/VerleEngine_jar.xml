@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VerleEngine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VerleEngine_jar</output-path>
+    <root id="archive" name="VerleEngine.jar">
+      <element id="module-output" name="VerleEngine" />
+    </root>
+  </artifact>
+</component>
